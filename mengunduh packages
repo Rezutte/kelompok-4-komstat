@@ -1,7 +1,3 @@
-# Load R packages
+# app_v1.6.R
 library(shiny)
 library(shinythemes)
-library(dplyr)
-library(ggplot2)
-library(pwr)
-library(DT)
